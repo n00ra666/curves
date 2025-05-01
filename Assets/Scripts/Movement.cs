@@ -1,3 +1,5 @@
+// Description: This script moves an object (Mr. Rectangle) along a curve defined by the Curve class.
+
 using UnityEngine;
 
 public class Movement : MonoBehaviour

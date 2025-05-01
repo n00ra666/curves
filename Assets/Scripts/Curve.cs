@@ -15,6 +15,7 @@ public class Curve : MonoBehaviour
 		};
 	}
 	
+	// Supports curves of length 3 and 4
 	public Vector3 GetPoint(float t)
 	{
 		if (points.Length == 3)
